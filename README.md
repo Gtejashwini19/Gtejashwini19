@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gtejashwini19
+- 👋 Hi, I’m @GTejashwini
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on new projects 
